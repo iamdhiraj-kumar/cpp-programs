@@ -15,5 +15,6 @@ int main() {
     s.area(10, 5);        // Rectangle
     s.area(6.0f, 4.0f);  // Triangle
 
+    
     return 0;
 }

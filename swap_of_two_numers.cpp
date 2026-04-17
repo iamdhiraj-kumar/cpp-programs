@@ -11,6 +11,5 @@ int main() {
     b = temp;
 
     cout << "After swap: " << a <<" "<< b;
-
     return 0;
 }

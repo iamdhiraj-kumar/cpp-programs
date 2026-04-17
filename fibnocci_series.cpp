@@ -13,7 +13,6 @@ int main() {
         b = next;
         i++;
     }
-
     return 0;
 }
 

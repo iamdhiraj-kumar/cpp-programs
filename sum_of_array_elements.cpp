@@ -14,4 +14,6 @@ int main()
 	printf("sum of array elements =%d",sum);
 	
 	return 0;
+	
 }
+

@@ -17,6 +17,5 @@ int main() {
     catch (...) {
         cout << "Exception caught!";
     }
-
     return 0;
 }

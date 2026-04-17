@@ -5,7 +5,6 @@ int main() {
     int a, b, choice;
     cout << "Enter two numbers: ";
     cin >> a >> b;
-
     cout << "1.Add 2.Subtract 3.Multiply 4.Divide\n";
     cin >> choice;
 

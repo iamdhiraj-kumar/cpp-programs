@@ -23,6 +23,5 @@ cout << "Enter array element : ";
 
     if (found == 0)
         cout << "Not Found";
-
     return 0;
 }
