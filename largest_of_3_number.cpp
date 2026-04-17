@@ -12,7 +12,6 @@ int main() {
         cout << "Largest: " << b;
     else
         cout << "Largest: " << c;
-
     return 0;
 }
 

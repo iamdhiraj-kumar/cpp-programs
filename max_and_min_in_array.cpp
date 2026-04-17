@@ -29,4 +29,5 @@ int main() {
     cout << "Maximum = " << max << endl;
     cout << "Minimum = " << min << endl;
     return 0;
+    
 }
